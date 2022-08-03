@@ -2,7 +2,7 @@
 
 Console-based Town of Salem alike game.
 
-Informations about Game
+Information about the Game
 
 1. Innocent, mafia, serial killer and police are roles of the game.
 2. Serial killers and mafias must kill whole players before they are shot down by the police. 
